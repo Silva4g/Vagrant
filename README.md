@@ -2,7 +2,7 @@
 Desbravando o mundo devops o vagrant era utilizado antes do docker. Os dois tem o mesmo proposito mas o Vagrant é uma maquina inteira para virtualização do projeto
 
 ## Baixar
-- [VirtualBox] (ou outra de preferencia)(https://www.virtualbox.org/wiki/Downloads)
+- [VirtualBox][1] (ou outra de preferencia)
 - [Vagrant](https://www.vagrantup.com/downloads)
 
 ## Iniciar
@@ -10,3 +10,5 @@ Desbravando o mundo devops o vagrant era utilizado antes do docker. Os dois tem 
 
 ## Finalizar
 ``` vagrant destroy -y ```
+
+[1]: https://www.virtualbox.org/wiki/Downloads
